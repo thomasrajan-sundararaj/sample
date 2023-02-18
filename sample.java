@@ -71,7 +71,7 @@ public class Test99GuruLogin {
 
     objLogin.loginToGuru99("mgr123", "mgr!23");
 
-    // go the next page
+    // go the next page and
 
     objHomePage = new Guru99HomePage(driver);
 
